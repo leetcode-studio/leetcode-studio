@@ -20,5 +20,21 @@ leetcode: https://leetcode.com/
 
 
 
+## Uses REACTO approaches to answer leetcode questions
+
+R: Repeat the question
+
+E: Write out examples
+
+A: Describe your approaches
+
+C: Write your code
+
+T: Test the code
+
+O: Optimization
+
+
+
 ## License
 MIT
