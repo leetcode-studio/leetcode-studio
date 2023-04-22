@@ -2,7 +2,13 @@
 A repo for Leetcode relevant practice.
 
 ## Resources
-leetcode: https://leetcode.com/
+Leetcode: https://leetcode.com/
+
+Top interview questions: https://leetcode.com/problem-list/top-interview-questions/
+
+Practice by categories: https://neetcode.io/practice
+
+Book cracking the interview: https://www.crackingthecodinginterview.com/
 
 ## Interview Procedures
 
@@ -30,6 +36,10 @@ A: Describe your approaches
 
 C: Write your code
 
+- Leave room between each line
+- Show your confidence level
+- Use Psedocode
+
 T: Test the code
 
 O: Optimization
@@ -37,4 +47,4 @@ O: Optimization
 
 
 ## License
-MIT
+This project is licensed under the terms of the MIT license.
