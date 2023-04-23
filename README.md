@@ -26,7 +26,7 @@ Book cracking the interview: https://www.crackingthecodinginterview.com/
 
 
 
-## Uses REACTO approaches to answer leetcode questions
+## Uses REACTO Approaches to Answer Leetcode Questions
 
 R: Repeat the question
 
